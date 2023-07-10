@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>My first webpage</title>
+<meta name="description" content="This is mytest site">
+<meta name="keywords" content="HTML, Samsung, Ghenor">
+<meta name="author" content="Ghenor Samuel">
+</head>
+
+<!-- checking a comment -->
+<body>
+<a>
+This is my site
+</a>
+</body>
+
+</html>
